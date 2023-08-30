@@ -1,1 +1,1 @@
-command for working directory 
+#!/bin/bash\n command for working directory 
