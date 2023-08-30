@@ -1,0 +1,6 @@
+git add .
+write cm message
+read var
+git commit -m '$var'
+git push
+
